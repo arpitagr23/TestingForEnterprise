@@ -5,6 +5,7 @@
       "default": true
     }
   ],
+  "name": "Team1Shilpa",
   "name": "team1Arpit",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
